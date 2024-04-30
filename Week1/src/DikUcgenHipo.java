@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class DikUcgenHipo {
-    public static void main(String[] args) {
+    public static void main3(String[] args) {
         /*Java ile kullanıcıdan dik kenarlarının uzunluğunu alan ve hipotenüsü hesaplayan programı yazın.
 
 Ödev

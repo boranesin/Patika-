@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class VucutKitle {
-    public static void main(String[] args) {
+    public static void main9(String[] args) {
 
         //Java ile kullanıcıdan boy ve kilo değerlerini alıp bir değişkene atayın. Aşağıdaki formüle göre
         // kullanıcının "Vücut Kitle İndeks" değerini hesaplayıp ekrana yazdırın.

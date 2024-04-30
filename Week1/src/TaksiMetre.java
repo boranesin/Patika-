@@ -7,7 +7,7 @@ public class TaksiMetre {
     Minimum ödenecek tutar 20 TL'dir. 20 TL altında ki ücretlerde yine 20 TL alınacaktır.
     Taksimetre açılış ücreti 10 TL'dir.*/
 
-    public static void main(String[] args) {
+    public static void main8(String[] args) {
         double mesafeKm, toplamUcret;
         double KmUcreti = 2.20;
         Scanner input = new Scanner(System.in);

@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class KdvHesaplayıcı {
-    public static void main(String[] args) {
+    public static void main4(String[] args) {
         /* Java ile kullanıcıdan alınan para değerinin KDV'li fiyatını ve KDV tutarını hesaplayıp ekrana bastıran programı yazın.
        (Not : KDV tutarını 18% olarak alın)
         KDV'siz Fiyat = 10;

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class DaireApp {
-    public static void main(String[] args) {
+    public static void main2(String[] args) {
         /*Dairenin Alanını ve Çevresini Hesaplayan Program
 Java ile yarı çapını kullanıcıdan aldığınız dairenin alanını ve çevresini hesaplayan programı yazın.
 Alan Formülü : π * r * r;
@@ -24,21 +24,21 @@ Formül : (𝜋 * (r*r) * 𝛼) / 360*/
 
         switch (secim){
 
-            case 1;
+            case 1:
 
             double alan = pi * yariCap * yariCap;
             System.out.println(alan);
             break;
 
-            case 2;
+            case 2:
 
             double cevre = 2 * pi * yariCap;
                 System.out.println("Yarı çapı " + yariCap + " olan dairenin cevresi : " + cevre);
 
-            case 3;
+            case 3:
 
 
-                double alanAcili = alan * aci / 360
+                double alanAcili = alan * aci / 360;
 
         }
 ;

@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class AritmetikIslemler {
 
    // https://github.com/boranesin/PatikaPlus/blob/main/README.md
-    public static void main(String[] args) {
+    public static void main1(String[] args) {
 
         // değişkenleri tanımlıyoruz
         int a, b, c, sonuc;

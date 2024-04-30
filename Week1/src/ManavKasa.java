@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class ManavKasa {
-    public static void main(String[] args) {
+    public static void main5(String[] args) {
         /*
         Java ile kullanıcıların manavdan almış oldukları ürünlerin kilogram değerlerine göre toplam tutarını ekrana yazdıran programı yazın.
 Meyveler ve KG Fiyatları

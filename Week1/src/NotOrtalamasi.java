@@ -2,7 +2,7 @@ import java.nio.file.LinkPermission;
 import java.util.Scanner;
 
 public class NotOrtalamasi {
-    public static void main(String[] args) {
+    public static void main6(String[] args) {
             int matematik;
             int fizik;
             int kimya;
