@@ -40,5 +40,6 @@ Toplam Tutar : 21.68 TL
         double toplamTutar = armutKilo*armut + elmaKilo*elma + domatesKilo*domates + muzPudraSekersizKilo*muzPudraSekersiz + patlamicanKilo*patlamican;
         System.out.println("Toplam tutar (kdvsiz): " + toplamTutar);
 
+
     }
 }

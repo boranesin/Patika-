@@ -20,7 +20,7 @@ public class VucutKitle {
         VIK = kilo / (boy * boy);
 
         System.out.println("Vücut Kitle indeksiniz: " + VIK);
-
+        input.close();
 
 
 

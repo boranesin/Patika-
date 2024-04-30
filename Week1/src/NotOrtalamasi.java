@@ -1,3 +1,4 @@
+import java.nio.file.LinkPermission;
 import java.util.Scanner;
 
 public class NotOrtalamasi {
@@ -31,7 +32,6 @@ public class NotOrtalamasi {
 
         String GecmeDurumu = ortalama >= 60 ? "Geçti" : "Kaldı";
         System.out.println(GecmeDurumu);
-
-
+        kullaniciGirisi.close();
     }
 }

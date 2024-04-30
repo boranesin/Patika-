@@ -21,5 +21,6 @@ public class AritmetikIslemler {
         sonuc = a + b * c - b;
 
         System.out.println("sonuç : " + sonuc);
+        input.close();
     }
 }

@@ -26,7 +26,7 @@ KDV oranını %8 olarak KDV tutarı hesaplayan program.*/
         double kdvMiktari = kdvliTutar - tutar;
         System.out.println("KDV'li tutar: " + kdvliTutar);
         System.out.println("KDV : " + kdvMiktari);
-
+        input.close();
 
     }
 }
