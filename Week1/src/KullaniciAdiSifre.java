@@ -38,5 +38,6 @@ public class KullaniciAdiSifre {
                 System.out.println("Başarılı giriş.");
             }
         }
+        girdi.close();
     }
 }
